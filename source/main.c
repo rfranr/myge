@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include "./core/core.h"
-
-#define USE_JSCOBJ
+#include "./core/ecs/ecs.h"
 
 /** 
  * @brief The main function
@@ -14,6 +13,8 @@ int main (){
 		printf("%d\n", a);
 		a++;
 	}
+
+	init_ecs();
 
 	return 0;
 }

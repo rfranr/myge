@@ -1,0 +1,6 @@
+[submodule "vendor/mlib"]
+	path = vendor/mlib
+	url = https://github.com/P-p-H-d/mlib.git
+[submodule "vendor/CLIST"]
+	path = vendor/CLIST
+	url = https://github.com/AlexanderAgd/CLIST.git
