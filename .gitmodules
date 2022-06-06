@@ -1,0 +1,4 @@
+[submodule "vendor/CLIST"]
+	path = vendor/CLIST
+	url = https://github.com/AlexanderAgd/CLIST.git
+ 
